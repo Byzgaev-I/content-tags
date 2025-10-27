@@ -149,3 +149,61 @@
 ![image](https://github.com/Byzgaev-I/content-tags/blob/main/Снимок%20экрана%202025-10-28%20в%2000.53.58.png)
 
 
+## Задание 2: «Стилизация блоков с иллюстрациями для статьи о Нью-Йорке»
+
+## Ссылка на песочницу [«Вёрстка блока с иллюстрацией для статьи о Монреале»](https://codepen.io/Byzgaev-I/pen/myVjdWv?editors=1100) 
+
+```css
+/* Общие стили для всех figure */
+figure {
+  padding: 18px;
+  border: 2px solid #e0e4e8;
+  margin: 20px 0;
+}
+
+/* Первое изображение (Собор Святого Патрика) - справа */
+figure:first-of-type {
+  float: right;
+  margin-left: 40px;
+  margin-right: 0;
+}
+
+/* Второе изображение (NASDAQ) - слева */
+figure:last-of-type {
+  float: left;
+  margin-right: 40px;
+  margin-left: 0;
+}
+
+/* Подписи к изображениям */
+figcaption {
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+/* Абзацы */
+p {
+  line-height: 26px;
+}
+
+/* Списки */
+ul, ol {
+  line-height: 22px;
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
