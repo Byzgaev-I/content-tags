@@ -146,6 +146,6 @@
   многочисленных служб.
 </p>
 ```
-![image](https://github.com/Byzgaev-I/content-tags/blob/main/Снимок%20экрана%202025-10-28%20в%2000.36.46.png)
+![image](https://github.com/Byzgaev-I/content-tags/blob/main/Снимок%20экрана%202025-10-28%20в%2000.53.58.png)
 
 
