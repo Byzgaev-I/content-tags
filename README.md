@@ -225,8 +225,7 @@ ul, ol {
   line-height: 22px;
 }
 ```
-
-
+![image](https://github.com/Byzgaev-I/content-tags/blob/main/Снимок%20экрана%202025-10-28%20в%2001.05.30.png)
 
 
 
