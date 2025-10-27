@@ -58,3 +58,4 @@
   <li>Екатеринбург</li>
 </ol>
 ```
+![image](https://github.com/Byzgaev-I/7-StorageK8s-2/blob/main/1-2%20статус%20PVC.png)  
