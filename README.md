@@ -13,4 +13,4 @@
 
 ## Задание 1: Вёрстка статьи «Чемпионат мира по футболу» для «Википедии».
 
-Ссылка на песочницу [storage-class.yaml](https://codepen.io/Byzgaev-I/pen/PwZBYXy)  
+Ссылка на песочницу [«Чемпионат мира по футболу» для «Википедии»](https://codepen.io/Byzgaev-I/pen/PwZBYXy)  
