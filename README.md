@@ -155,36 +155,38 @@
 
 ### Объяснение кода: 
 
-figure - базовые стили для всех блоков с изображениями:  
+### figure - базовые стили для всех блоков с изображениями:  
 
 padding: 18px - внутренний отступ со всех сторон
 border: 2px solid #e0e4e8 - сплошная рамка
 margin: 20px 0 - внешний отступ сверху и снизу
 
- figure:first-of-type - первое изображение (собор):  
+###  figure:first-of-type - первое изображение (собор):  
 
 float: left - обтекание слева
 margin-left: 40px - отступ слева
 margin-right: 0 - без отступа справа
 
- figure:last-of-type - второе изображение (NASDAQ):  
+ ### figure:last-of-type - второе изображение (NASDAQ):  
 
 float: right - обтекание справа
 margin-right: 40px - отступ справа
 margin-left: 0 - без отступа слева
 
- figcaption - подписи:  
+###  figcaption - подписи:  
 
 font-size: 13px - размер шрифта
 margin-top: 10px - отступ сверху
 
-p - абзацы:  
+### p - абзацы:  
 
 line-height: 26px - межстрочный интервал  
 
-ul, ol - списки:  
+### ul, ol - списки:  
 
 line-height: 22px - межстрочный интервал  
+
+
 ```css
 /* Общие стили для всех figure */
 figure {
@@ -223,6 +225,7 @@ ul, ol {
   line-height: 22px;
 }
 ```
+
 
 
 
