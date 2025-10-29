@@ -227,8 +227,7 @@ ul, ol {
 ```
 ![image](https://github.com/Byzgaev-I/content-tags/blob/main/Снимок%20экрана%202025-10-28%20в%2001.05.30.png)
 
-
-
+![image](https://github.com/Byzgaev-I/content-tags/blob/main/33333.png)
 
 
 
