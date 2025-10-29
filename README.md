@@ -147,7 +147,7 @@
 </p>
 ```
 ![image](https://github.com/Byzgaev-I/content-tags/blob/main/Снимок%20экрана%202025-10-28%20в%2000.53.58.png)
-
+![image](https://github.com/Byzgaev-I/content-tags/blob/main/222222.png)
 
 ## Задание 3: «Стилизация блоков с иллюстрациями для статьи о Нью-Йорке»
 
