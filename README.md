@@ -58,7 +58,9 @@
   <li>Екатеринбург</li>
 </ol>
 ```
-![image](https://github.com/Byzgaev-I/content-tags/blob/main/Снимок%20экрана%202025-10-28%20в%2000.10.09.png)  
+![image](https://github.com/Byzgaev-I/content-tags/blob/main/Снимок%20экрана%202025-10-28%20в%2000.10.09.png)
+
+![image](https://github.com/Byzgaev-I/content-tags/blob/main/11111111.png) 
 
 ## Задание 2: «Вёрстка блока с иллюстрацией для статьи о Монреале»
 
